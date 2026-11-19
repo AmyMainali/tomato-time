@@ -2,7 +2,7 @@
 
 A whimsical, hand-drawn pomodoro timer. Plain HTML, CSS and JavaScript, with no build step and no dependencies.
 
-**Live demo:** https://YOUR-USERNAME.github.io/tomato-time/
+**Live demo:** https://amymainali.github.io/tomato-time/
 
 ## Features
 
